@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/nuuwy0/kernel_realme_c21y.git",
+      "branch": "master",
+      "device": "RMX3261"
     },
     "withKernelSU": true,
     "toolchains": [
